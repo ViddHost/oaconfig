@@ -1,22 +1,12 @@
 Config manager for open-admin
 ========================
 
-[![StyleCI](https://styleci.io/repos/387844084/shield?branch=main)](https://styleci.io/repos/387844084)
-[![Packagist](https://img.shields.io/github/license/open-admin-org/config?style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-ext/config)
-[![Total Downloads](https://img.shields.io/packagist/dt/open-admin-ext/config?style=flat-square)](https://packagist.org/packages/open-admin-ext/config)
-[![Pull request welcome](https://img.shields.io/badge/pr-welcome-green?style=flat-square&color=brightgreen)]()
-
-
-[Documentation](http://open-admin.org/docs/en/extension-config)
-
-## Screenshot
-
-![config screenshot](https://open-admin.org/docs/images/screenshots/ext-config.png)
+ 
 
 ## Installation
 
 ```
-$ composer require open-admin-ext/config
+$ composer require viddhost/oaconfig
 
 $ php artisan migrate
 ```
